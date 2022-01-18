@@ -14,4 +14,15 @@ c4419b61-f270-4ef7-9f09-5dee4193c99e
 {3,"1CV8C",2},
 {4,"_$Session$_.Finish",7},
 {3,"1CV8",3},
-{4,"_$PerformError$_",8}
+{4,"_$PerformError$_",8},
+{4,"_$Transaction$_.Begin",9},
+{4,"_$Data$_.New",10},
+{5,3a481469-d431-4486-ab67-5942019bba64,"Документ.ПриходнаяНакладная",1},
+{4,"_$Data$_.Post",11},
+{4,"_$Transaction$_.Commit",12},
+{5,91b76afc-5d36-41da-8ff3-95f8e80df723,"Документ.РасходнаяНакладная",2},
+{4,"_$InfoBase$_.PredefinedDataUpdate",13},
+{5,8a4511d8-a5ac-4eb3-a79b-07985bacfe47,"",3},
+{3,"BackgroundJob",4},
+{5,8a4511d8-a5ac-4eb3-a79b-07985bacfe47,"Справочник.Склады",3},
+{4,"_$Data$_.Update",14}
