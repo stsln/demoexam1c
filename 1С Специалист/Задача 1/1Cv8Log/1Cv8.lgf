@@ -25,4 +25,8 @@ c4419b61-f270-4ef7-9f09-5dee4193c99e
 {5,8a4511d8-a5ac-4eb3-a79b-07985bacfe47,"",3},
 {3,"BackgroundJob",4},
 {5,8a4511d8-a5ac-4eb3-a79b-07985bacfe47,"Справочник.Склады",3},
-{4,"_$Data$_.Update",14}
+{4,"_$Data$_.Update",14},
+{2,"DESKTOP-BQ58LMG",2},
+{13,2,1},
+{4,"_$Transaction$_.Rollback",15},
+{4,"_$Data$_.Unpost",16}
