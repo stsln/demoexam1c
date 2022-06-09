@@ -33,4 +33,12 @@ fab116bb-12ef-4826-9f54-93b63dcdbdcb
 {1,73e66bf5-0795-4a07-968c-31fcabd9054b,"zky",4},
 {13,1,4},
 {1,a9b0fd7c-5ee3-4617-baa2-c44b146f5275,"khf",5},
-{13,1,5}
+{13,1,5},
+{5,2875cf10-b4be-40ff-a78a-e5cb5554ac01,"",3},
+{5,2875cf10-b4be-40ff-a78a-e5cb5554ac01,"Справочник.Валюты",3},
+{4,"_$Data$_.PredefinedDataInitialization",17},
+{4,"_$Data$_.Update",18},
+{5,89c4a910-7c06-4f8a-a06c-20173c60e7b5,"РегистрСведений.КурсыВалют",4},
+{4,"_$Data$_.Delete",19},
+{4,"_$Data$_.DeletePredefinedData",20},
+{4,"_$InfoBase$_.DBConfigUpdateError",21}
