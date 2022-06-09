@@ -41,4 +41,8 @@ fab116bb-12ef-4826-9f54-93b63dcdbdcb
 {5,89c4a910-7c06-4f8a-a06c-20173c60e7b5,"РегистрСведений.КурсыВалют",4},
 {4,"_$Data$_.Delete",19},
 {4,"_$Data$_.DeletePredefinedData",20},
-{4,"_$InfoBase$_.DBConfigUpdateError",21}
+{4,"_$InfoBase$_.DBConfigUpdateError",21},
+{5,add7a0f5-dc92-4744-bfbc-4dcf35878aa7,"Константа.ВалютныйУчёт",5},
+{5,a759bf85-28a0-40a7-9061-f284c51edff9,"Справочник.Номенклатура",2},
+{5,9600de39-5c9b-4ead-a71c-92384f1d79c2,"Документ.РасходнаяНакладная",6},
+{4,"_$Data$_.Post",22}
