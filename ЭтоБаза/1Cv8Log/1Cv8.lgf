@@ -1,0 +1,21 @@
+﻿1CV8LOG(ver 2.0)
+8eeff7af-a795-4515-99d2-29ee9c1c2ccd
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-BQ58LMG",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.DBConfigUpdate",5},
+{3,"1CV8C",2},
+{4,"_$Session$_.Finish",6},
+{4,"_$InfoBase$_.PredefinedDataUpdate",7},
+{5,6a93f02a-1327-43c9-b2a1-f266d51441c5,"",1},
+{5,e724e48b-4a96-4397-8e7b-ad357d53b52d,"",2},
+{4,"_$PerformError$_",8},
+{4,"_$InfoBase$_.DBConfigUpdateError",9},
+{4,"_$InfoBase$_.DumpStart",10},
+{4,"_$InfoBase$_.DumpFinish",11}
