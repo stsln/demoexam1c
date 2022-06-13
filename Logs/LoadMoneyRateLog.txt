@@ -1,3 +1,4 @@
+//http://www.cbr.ru/DailyInfoWebServ/DailyInfo.asmx?WSDL
 
 &НаКлиенте
 Процедура ОбработкаКоманды(ПараметрКоманды, ПараметрыВыполненияКоманды)
